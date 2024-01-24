@@ -1,4 +1,4 @@
-package org.hbrs.se1.ws23.uebung10;
+package org.hbrs.se1.ws23.uebung10.refactoring;
 
 import java.util.Enumeration;
 import java.util.Vector;
